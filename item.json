@@ -1,0 +1,149 @@
+{
+  "id": "https://raw.githubusercontent.com/iqb-vocabs/p111/master/item.json",
+  "label": [{
+    "lang": "de",
+    "value": "IQB Mathematik Primar - Item"
+  }],
+  "target": ["ITEM"],
+  "groups": [
+    {
+      "label": [
+        {
+          "lang": "de",
+          "value": "Item"
+        }
+      ],
+      "entries": [
+        {
+          "id": "s3",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Itemformat"
+            }
+          ],
+          "type": "VOCABULARY",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v27/mp/",
+            "allowMultipleValues": false,
+            "hideNumbering": true
+          }
+        },
+        {
+          "id": "s4",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Anforderungsbereich"
+            }
+          ],
+          "type": "VOCABULARY",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v10/a1/",
+            "allowMultipleValues": false,
+            "hideNumbering": true
+          }
+        },
+        {
+          "id": "s7",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Inhaltsbezogener Bildungsstandard primär"
+            }
+          ],
+          "type": "VOCABULARY",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v10/i1/",
+            "allowMultipleValues": false
+          }
+        },
+        {
+          "id": "s8",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Inhaltsbezogener Bildungsstandard sekundär"
+            }
+          ],
+          "type": "VOCABULARY",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v10/i1/",
+            "allowMultipleValues": true
+          }
+        },
+        {
+          "id": "s5",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Prozessbezogener Bildungsstandard primär"
+            }
+          ],
+          "type": "VOCABULARY",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v10/p1/",
+            "allowMultipleValues": false
+          }
+        },
+        {
+          "id": "s6",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Prozessbezogener Bildungsstandard sekundär"
+            }
+          ],
+          "type": "VOCABULARY",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v10/p1/",
+            "allowMultipleValues": true
+          }
+        },
+        {
+          "id": "iqb_time_item",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Itemzeit"
+            }
+          ],
+          "type": "NUMBER",
+          "parameters": {
+            "minValue": 0,
+            "digits": 0,
+            "isPeriodSeconds": true
+          }
+        },
+        {
+          "id": "e4",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Geschätzte Schwierigkeit"
+            }
+          ],
+          "type": "VOCABULARY",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v26/ea/",
+            "allowMultipleValues": false
+          }
+        },
+        {
+          "id": "iqb_itemtech",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Technische Besonderheiten der Antwortoptionen"
+            }
+          ],
+          "type": "VOCABULARY",
+          "parameters": {
+            "url": "https://w3id.org/iqb/v27/ti/",
+            "allowMultipleValues": true
+          }
+        }
+      ]
+    }
+  ]
+}
