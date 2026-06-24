@@ -9,7 +9,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 2 Profile definiert:
 
-# IQB Mathematik Primar - Aufgabe
+# IQB Mathematik P - Aufgabe
 
 ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p111/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p111/master/unit.json)
 
@@ -27,7 +27,7 @@ ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p111/master/unit.js
 
 : {tbl-colwidths="[15,15,55,15]"}
 
-# IQB Mathematik Primar - Item
+# IQB Mathematik P - Item
 
 ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p111/master/item.json](https://raw.githubusercontent.com/iqb-vocabs/p111/master/item.json)
 

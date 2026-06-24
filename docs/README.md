@@ -6,7 +6,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 2 Profile definiert:
 
-## Profil "IQB Mathematik Primar - Aufgabe"
+## Profil "IQB Mathematik P - Aufgabe"
 
 ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p111/master/unit.json](https://raw.githubusercontent.com/iqb-vocabs/p111/master/unit.json)
 
@@ -22,7 +22,7 @@ ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p111/master/unit.js
 | Quellenangaben | Text | Mehrzeilig, Sprache(n): de   | iqb_copyright |
 | Unverträgliche Aufgaben | Text | Einzeilig, Sprache(n): de   | iqb_compatibility |
 
-## Profil "IQB Mathematik Primar - Item"
+## Profil "IQB Mathematik P - Item"
 
 ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p111/master/item.json](https://raw.githubusercontent.com/iqb-vocabs/p111/master/item.json)
 
