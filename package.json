@@ -1,5 +1,5 @@
 {
-  "name": "p11",
+  "name": "p111",
   "version": "0.9.0",
   "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
   "license": "CC0 1.0",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iqb-vocabs/p11.git"
+    "url": "git+https://github.com/iqb-vocabs/p111.git"
   },
   "bugs": {
-    "url": "https://github.com/iqb-vocabs/p11/issues"
+    "url": "https://github.com/iqb-vocabs/p111/issues"
   },
-  "homepage": "https://github.com/iqb-vocabs/p11#readme",
+  "homepage": "https://github.com/iqb-vocabs/p111#readme",
   "dependencies": {
-    "@iqb/validate-md-profile": "^0.9.1"
+    "@iqb/validate-md-profile": "0.10.5"
   }
 }
