@@ -151,6 +151,19 @@
           "parameters": {
             "format": "SINGLE"
           }
+        },
+        {
+          "id": "iqb_compatibility2",
+          "label": [
+            {
+              "lang": "de",
+              "value": "Unverträgliche Aufgaben 2"
+            }
+          ],
+          "type": "TEXT",
+          "parameters": {
+            "format": "MULTILINE"
+          }
         }
       ]
     }
