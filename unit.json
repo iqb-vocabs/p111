@@ -4,6 +4,7 @@
     "lang": "de",
     "value": "IQB Mathematik Primar - Aufgabe"
   }],
+  "target": ["UNIT"],
   "groups": [
     {
       "label": [
@@ -21,9 +22,9 @@
               "value": "Entwickler:in"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         },
         {
@@ -34,7 +35,7 @@
               "value": "Klassenstufe"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "http://w3id.org/openeduhub/vocabs/educationalLevel/",
             "allowMultipleValues": true,
@@ -49,7 +50,7 @@
               "value": "Für SPF geeignet"
             }
           ],
-          "type": "boolean",
+          "type": "BOOLEAN",
           "parameters": {
             "trueLabel": [
               {
@@ -73,7 +74,7 @@
               "value": "Kopfhörereinsatz"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v24/kh/",
             "allowMultipleValues": false,
@@ -88,7 +89,7 @@
               "value": "Leitidee"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v10/i1/",
             "allowMultipleValues": false,
@@ -103,7 +104,7 @@
               "value": "Aufgabenzeit"
             }
           ],
-          "type": "number",
+          "type": "NUMBER",
           "parameters": {
             "minValue": 0,
             "digits": 0,
@@ -118,7 +119,7 @@
               "value": "Stimuluszeit"
             }
           ],
-          "type": "number",
+          "type": "NUMBER",
           "parameters": {
             "minValue": 0,
             "digits": 0,
@@ -133,9 +134,9 @@
               "value": "Quellenangaben"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "multiline"
+            "format": "MULTILINE"
           }
         },
         {
@@ -146,9 +147,9 @@
               "value": "Unverträgliche Aufgaben"
             }
           ],
-          "type": "text",
+          "type": "TEXT",
           "parameters": {
-            "format": "single"
+            "format": "SINGLE"
           }
         }
       ]

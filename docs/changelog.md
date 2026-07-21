@@ -1,3 +1,3 @@
-### Änderung von Version 0.8.0 auf Version 0.9.0
+### Änderung von Version 0.6.0 auf Version 0.7.0
 
-Das Feld 'Klassenstufe' in Stimulus wurde hinzugefügt.
+Das Feld 'Klassenstufe' in Aufgabe wurde hingezugefügt.

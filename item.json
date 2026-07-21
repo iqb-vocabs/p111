@@ -4,6 +4,7 @@
     "lang": "de",
     "value": "IQB Mathematik Primar - Item"
   }],
+  "target": ["ITEM"],
   "groups": [
     {
       "label": [
@@ -21,7 +22,7 @@
               "value": "Itemformat"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v27/mp/",
             "allowMultipleValues": false,
@@ -36,7 +37,7 @@
               "value": "Anforderungsbereich"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v10/a1/",
             "allowMultipleValues": false,
@@ -51,7 +52,7 @@
               "value": "Inhaltsbezogener Bildungsstandard primär"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v10/i1/",
             "allowMultipleValues": false
@@ -65,7 +66,7 @@
               "value": "Inhaltsbezogener Bildungsstandard sekundär"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v10/i1/",
             "allowMultipleValues": true
@@ -79,7 +80,7 @@
               "value": "Prozessbezogener Bildungsstandard primär"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v10/p1/",
             "allowMultipleValues": false
@@ -93,7 +94,7 @@
               "value": "Prozessbezogener Bildungsstandard sekundär"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v10/p1/",
             "allowMultipleValues": true
@@ -107,7 +108,7 @@
               "value": "Itemzeit"
             }
           ],
-          "type": "number",
+          "type": "NUMBER",
           "parameters": {
             "minValue": 0,
             "digits": 0,
@@ -122,7 +123,7 @@
               "value": "Geschätzte Schwierigkeit"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v26/ea/",
             "allowMultipleValues": false
@@ -136,7 +137,7 @@
               "value": "Technische Besonderheiten der Antwortoptionen"
             }
           ],
-          "type": "vocabulary",
+          "type": "VOCABULARY",
           "parameters": {
             "url": "https://w3id.org/iqb/v27/ti/",
             "allowMultipleValues": true
