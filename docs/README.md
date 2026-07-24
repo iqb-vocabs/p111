@@ -1,6 +1,6 @@
 # Metadatenprofile für Testaufgaben: Mathematik Primar
 
-ID of profile-store: `1map`
+ID of profile-store: `map`
 
 Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
@@ -21,7 +21,6 @@ ID of profile: [https://raw.githubusercontent.com/iqb-vocabs/p111/master/unit.js
 | Stimuluszeit | Zahl | Kommastellen: 0, Mindestwert: 0, Maximalwert: kein, als Sekunden | iqb_time_stimulus |
 | Quellenangaben | Text | Mehrzeilig, Sprache(n): de   | iqb_copyright |
 | Unverträgliche Aufgaben | Text | Einzeilig, Sprache(n): de   | iqb_compatibility |
-| Unverträgliche Aufgaben 2 | Text | Mehrzeilig, Sprache(n): de   | iqb_compatibility2 |
 
 ## Profil "IQB Mathematik Primar - Item"
 

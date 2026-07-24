@@ -1,10 +1,14 @@
 {
   "id": "https://raw.githubusercontent.com/iqb-vocabs/p111/master/item.json",
-  "label": [{
-    "lang": "de",
-    "value": "IQB Mathematik Primar - Item"
-  }],
-  "target": ["ITEM"],
+  "label": [
+    {
+      "lang": "de",
+      "value": "IQB Mathematik Primar - Item"
+    }
+  ],
+  "target": [
+    "ITEM"
+  ],
   "groups": [
     {
       "label": [

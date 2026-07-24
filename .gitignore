@@ -36,5 +36,6 @@ Thumbs.db
 /.idea/
 *.iml
 
+
 /.quarto/
 /_site/

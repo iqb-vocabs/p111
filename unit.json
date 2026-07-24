@@ -1,10 +1,14 @@
 {
   "id": "https://raw.githubusercontent.com/iqb-vocabs/p111/master/unit.json",
-  "label": [{
-    "lang": "de",
-    "value": "IQB Mathematik Primar - Aufgabe"
-  }],
-  "target": ["UNIT"],
+  "label": [
+    {
+      "lang": "de",
+      "value": "IQB Mathematik Primar - Aufgabe"
+    }
+  ],
+  "target": [
+    "UNIT"
+  ],
   "groups": [
     {
       "label": [
@@ -150,19 +154,6 @@
           "type": "TEXT",
           "parameters": {
             "format": "SINGLE"
-          }
-        },
-        {
-          "id": "iqb_compatibility2",
-          "label": [
-            {
-              "lang": "de",
-              "value": "Unverträgliche Aufgaben 2"
-            }
-          ],
-          "type": "TEXT",
-          "parameters": {
-            "format": "MULTILINE"
           }
         }
       ]
