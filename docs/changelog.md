@@ -1,3 +1,7 @@
+### Änderung von Version 0.10.0 auf Version 0.11.0
+
+Die IDs für das Metadatenprofil wurden durch w3id ersetzt.
+
 ### Änderung von Version 0.9.0 auf Version 0.10.0
 
 Die Metadatenprofile wurden auf der„metadata-profile@iqb-standard0.11“ umgesetzt.
