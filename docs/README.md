@@ -8,7 +8,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 ## Profil "IQB Mathematik Primar - Aufgabe"
 
-ID of profile: [https://w3id.org/iqb/p111/unit/](https://w3id.org/iqb/p111/unit/)
+ID of profile: `https://w3id.org/iqb/p111/unit/`
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
@@ -24,7 +24,7 @@ ID of profile: [https://w3id.org/iqb/p111/unit/](https://w3id.org/iqb/p111/unit/
 
 ## Profil "IQB Mathematik Primar - Item"
 
-ID of profile: [https://w3id.org/iqb/p111/item/](https://w3id.org/iqb/p111/item/)
+ID of profile: `https://w3id.org/iqb/p111/item/`
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
